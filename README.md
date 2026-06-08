@@ -181,6 +181,8 @@ obesity-multiclass-ml-streamlit/
 
 ## Sobre a Aplicação Streamlit
 
+Output gerado: https://obesity-multiclass-ml-app-jtazynffmshjj9n4dgaqfu.streamlit.app/
+
 A aplicação está organizada em três abas:
 
 ### Predição Individual
