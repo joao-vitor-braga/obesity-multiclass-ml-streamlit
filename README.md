@@ -4,6 +4,8 @@ Projeto desenvolvido no contexto da **Pós-Graduação em Data Analytics (FIAP P
 
 O desafio consiste em prever o **nível de obesidade de um indivíduo** — em 7 categorias — a partir exclusivamente de **hábitos alimentares e de estilo de vida**, sem utilizar peso ou altura diretamente (para evitar data leakage via IMC).
 
+[Acessar deploy da aplicação - ObesityAI / Streamlit](https://obesity-multiclass-ml-app-jtazynffmshjj9n4dgaqfu.streamlit.app/)
+
 ---
 
 ## Como Executar o Projeto
@@ -180,8 +182,6 @@ obesity-multiclass-ml-streamlit/
 ---
 
 ## Sobre a Aplicação Streamlit
-
-Output gerado: https://obesity-multiclass-ml-app-jtazynffmshjj9n4dgaqfu.streamlit.app/
 
 A aplicação está organizada em três abas:
 
